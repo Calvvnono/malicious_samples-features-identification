@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "abbstrap": "^1.0.23",
-    "abs1004-axios": "^0.21.4",
+    "acorn": "^8.11.3",
     "urijs": "^1.16.1"
   }
 }
